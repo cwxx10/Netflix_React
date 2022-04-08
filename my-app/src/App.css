@@ -1,0 +1,22 @@
+:root {
+    --vermelho: #E50914;
+    --preta: #222222;
+    --cinza: #AAA;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    scrollbar-width: thin;
+    
+   
+}
+
+body {
+    background: var(--preta);
+    font-family: 'Bebas',sans-serif;
+    display: flex;
+    
+}
